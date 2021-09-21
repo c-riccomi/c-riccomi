@@ -21,5 +21,8 @@
 
 ##
 
-<img align="right" alt="Carol-Gato" height="350" width="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
-![Snake animation](https://github.com/c-riccomi/c-riccomi/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img align="right" alt="Carol-Gato" height="250" width="200" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+  <!--  ![Snake animation](https://github.com/c-riccomi/c-riccomi/blob/output/github-contribution-grid-snake.svg)  -->
+  <img height="250" width="700" src="https://github.com/c-riccomi/c-riccomi/blob/output/github-contribution-grid-snake.svg">
+</div>
