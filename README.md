@@ -6,8 +6,8 @@
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-riccomi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-riccomi&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=c-riccomi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-riccomi&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
 ##
 
 <div>
-  <img align="right" alt="Carol-Gato" height="250" width="200" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+  <img align="right" alt="Carol-Gato" height="180em" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
   <!--  ![Snake animation](https://github.com/c-riccomi/c-riccomi/blob/output/github-contribution-grid-snake.svg)  -->
-  <img height="250" width="700" src="https://github.com/c-riccomi/c-riccomi/blob/output/github-contribution-grid-snake.svg">
+  <img height="160em" src="https://github.com/c-riccomi/c-riccomi/blob/output/github-contribution-grid-snake.svg">
 </div>
