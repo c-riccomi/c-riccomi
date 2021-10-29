@@ -6,8 +6,8 @@
 ##
 
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=c-riccomi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-riccomi&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=c-riccomi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-riccomi&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,5 +24,5 @@
 <div>
   <img align="right" alt="Carol-Gato" height="170em" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
   <!--  ![Snake animation](https://github.com/c-riccomi/c-riccomi/blob/output/github-contribution-grid-snake.svg)  -->
-  <img height="140em" src="https://github.com/c-riccomi/c-riccomi/blob/output/github-contribution-grid-snake.svg">
+  <img height="138em" src="https://github.com/c-riccomi/c-riccomi/blob/output/github-contribution-grid-snake.svg">
 </div>
